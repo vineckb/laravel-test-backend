@@ -1,10 +1,8 @@
-### Sobre a Accordous
-##### Não perca mais tempo com seus contratos.
-Somos uma empresa de tecnologia voltada a simplificação de processos burocráticos! Desde a concepção até a cobrança de contratos, seja ele de imóveis, acordo, prestação de serviços, entre outros.
+## Sobre
 
+## Instruções
 
-##### Teste Full Stack Laravel
-O objetivo deste teste é entendermos um pouco mais sobre seus conhecimentos de Frontend e Backend no Laravel.
+## Descrição
 
 ##### Requisitos
 - PHP 7.1+
@@ -12,16 +10,11 @@ O objetivo deste teste é entendermos um pouco mais sobre seus conhecimentos de 
 - Vue.JS
 - Docker Engine
 
-##### Orientações
-Faça um fork deste projeto.
-
-Para facilitar o seu desenvolvimento, nós disponibilizamos um ``docker-compose.yml`` com o serviços que utilizamos habitualmente no nosso dia a dia.
-
 #### O Desafio
 Simular o cadastro de uma propriedade e criar um contrato para o mesmo.
 
 ##### Funcionalidade 1:
-  - Permitir o cadastro de um imóvel com algumas características. 
+  - Permitir o cadastro de um imóvel com algumas características.
   - o cadastro de um imóvel deve possuir:
   - e-mail do proprietário, rua, número, complemento, bairro, cidade, estado;
 
@@ -62,8 +55,3 @@ Para que o cadastro ocorra deverá haver validações em dois níveis. Frontend 
 - Teste unitário de backend;
 - Teste de integração backend;
 - SPA.
-- Usabilidade (A usabilidade das funcionalidades fica a cargo do desenvolvedor) :D
-
-
-### Entrega
-Deixar um repositório público e nos enviar por e-mail - o mesmo e-mail que foi enviado o teste.
